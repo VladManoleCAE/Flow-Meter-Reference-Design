@@ -7,4 +7,5 @@ The full block diagram with all the solutions that Microchip Technology can offe
 
 
 Here is a simple implementation using Microchip parts:
-![image](https://github.com/VladManoleCAE/Flow-Meter-Reference-Design/assets/133333286/2e2b1866-b010-43f6-9bd5-82355d68b7ba)
+![image](https://github.com/VladManoleCAE/Flow-Meter-Reference-Design/assets/133333286/587c9056-4d72-4aa8-859c-848183593971)
+
